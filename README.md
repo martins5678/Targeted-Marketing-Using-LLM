@@ -3,7 +3,7 @@
 
 
 ## Introduction
-[![Banner](https://raw.githubusercontent.com/bankoleridwan/Climate-Change-Sentiment-Classifier/main/img/banner.jpg)](https://unsplash.com/photos/people-gathered-outside-buildings-holding-climate-justice-now-signage-dYZumbs8f_E)
+![Banner](https://raw.githubusercontent.com/bankoleridwan/Revolutionizing-Marketing-with-LLM/main/img/banner.jpg)
 
 
 The ExploreAI team aimed to soar above competitors in the fast-paced marketing world by embracing targeted strategies. Recognizing the power of personalized messaging, they enlisted our help to create a cutting-edge solution. Our mission? Develop a machine learning application that assesses content alignment and offers real-time insights and recommendations for improvement.
