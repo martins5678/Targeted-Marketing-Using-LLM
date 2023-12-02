@@ -6,7 +6,7 @@
 ![Banner](https://raw.githubusercontent.com/bankoleridwan/Targeted-Marketing-Using-LLM/main/img/banner.jpg)
 
 
-The ExploreAI team aimed to soar above competitors in the fast-paced marketing world by embracing targeted strategies. Recognizing the power of personalized messaging, they enlisted our help to create a cutting-edge solution. Our mission? Develop a machine learning application that assesses content alignment and offers real-time insights and recommendations for improvement.
+Our client aimed to soar above competitors in the fast-paced marketing world by embracing targeted strategies. Recognizing the power of personalized marketing, they enlisted our help to create a cutting-edge solution. Our mission? Develop a machine learning application that assesses content alignment and offers real-time insights and recommendations for improvement.
 
 
 ## The Challenge
