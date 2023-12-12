@@ -1,9 +1,9 @@
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bankoleridwan.github.io/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bankoleridwan/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ridwanbankole.github.io/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridwanbankole/)
 
 
 ## Introduction
-![Banner](https://raw.githubusercontent.com/bankoleridwan/Targeted-Marketing-Using-LLM/main/img/banner.jpg)
+![Banner](https://raw.githubusercontent.com/ridwanbankole/Targeted-Marketing-Using-LLM/main/img/banner.jpg)
 
 
 Our client aimed to soar above competitors in the fast-paced marketing world by embracing targeted strategies. Recognizing the power of personalized marketing, they enlisted our help to create a cutting-edge solution. Our mission? Develop a machine learning application that assesses content alignment and offers real-time insights and recommendations for improvement.
@@ -56,5 +56,5 @@ While our project achieved remarkable success, we identified areas for potential
 
 
 
-Ready to unlock the full potential of your data? I'm excited to collaborate and help your business thrive through data-driven insights. [Get in touch!](https://bankoleridwan.github.io/#contact:~:text=My%20Resume-,Contact%20Me,-Ready%20to%20unlock)
+Ready to unlock the full potential of your data? I'm excited to collaborate and help your business thrive through data-driven insights. [Get in touch!](https://ridwanbankole.github.io/#contact:~:text=My%20Resume-,Contact%20Me,-Ready%20to%20unlock)
 
